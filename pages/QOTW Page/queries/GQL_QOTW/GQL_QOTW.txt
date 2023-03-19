@@ -1,0 +1,6 @@
+query GetQOTW {
+  QOTW(limit: 1, order_by: {id: desc}) {
+    QOTW
+		Solution
+  }
+}

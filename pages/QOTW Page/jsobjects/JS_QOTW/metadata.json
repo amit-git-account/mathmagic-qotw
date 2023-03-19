@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JS_QOTW",
+    "pageId": "QOTW Page",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "QOTW Page_JS_QOTW",
+  "deleted": false,
+  "gitSyncId": "6417956c71d5213f118d427c_6417956c71d5213f118d428f"
+}
